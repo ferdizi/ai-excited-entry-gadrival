@@ -1,5 +1,9 @@
 # The Whale in the Fishbowl
 
+[![ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/c/ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/ferdizi/ai-excited-entry-gadrival/rank.svg)](https://make.fun/c/ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/ferdizi/ai-excited-entry-gadrival/reward.svg)](https://make.fun/c/ai-excited-01)
+
 ai-excited-01 entry for @gadrival.
 
 ## The image
