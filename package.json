@@ -1,0 +1,1 @@
+{"description":"ai-excited-01 entry for @gadrival: a giant whale breaches out of a tiny fishbowl at sunset","engines":{"node":">=22"},"license":"MIT","name":"ai-excited-entry-gadrival","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
